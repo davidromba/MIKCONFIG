@@ -1,1 +1,18 @@
 # MIKCONFIG
+MIKCONFIG is a configurator tool for mikrotik devices.
+MIKCONFIG allows for the configuration of a router
+Given the following properties:
+* DEVICE NAME
+* FAILOVER
+  * WAN PORTS
+* INTERNAL NETWORK
+  * INTERNAL GATEWAY
+  * INTERNAL IP POOL
+  * INTERNAL VLAN NAME / ID
+  * INTERNAL WIFI NAME / PASSWORD
+* GUEST NETWORK
+  * GUEST GATEWAY
+  * GUEST IP POOL
+  * GUEST VLAN NAME / ID
+  * GUEST WIFI NAME / PASSWORD
+* DNS SERVERS
